@@ -1,6 +1,12 @@
 > Discord auth bot that backup your channels, messages even discord members that you got on bot
 
-
+SOURCE CODE: 
+---------------------------------------
+> **Important**
+> # SOURCE CODE: 
+>*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
+>*  Still WIP[WorkInProcess], hiring good developers to help us.
+---------------------------------------
 
 # ⭐ FEATURES
 
