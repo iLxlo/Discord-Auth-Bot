@@ -51,7 +51,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 </details>
 
 <details close>
-<summary>🏠 AUTOMATE JOIN</summary>
+<summary>🏠 Auto Mate</summary>
   <p>
 
 * ` 🔒 ` oauth list command:
