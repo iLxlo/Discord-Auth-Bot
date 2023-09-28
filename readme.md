@@ -1,5 +1,8 @@
 > Discord auth bot that backup your channels, messages even discord members that you got on bot
 
+[![View count](https://img.shields.io/github/views/iLxlo/discord-authbot/main.svg?style=for-the-badge)](https://github.com/iLxlo/discord-authbot)
+
+
 # ⭐ FEATURES
 
 <details close>
