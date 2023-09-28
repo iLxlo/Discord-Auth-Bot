@@ -4,9 +4,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 # ⭐ FEATURES
 
 <details close>
-    </p>
-        Embed Builder
-      </p>
+</summary>Embed Builder</summary>
 </details>
 
 ` 📞 ` Default Embed:
@@ -19,9 +17,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 
 <details close>
     <summary>
-        </p>
-        🐞 ADVANCED LOGS      
-        </p>
+        </summary>🐞 ADVANCED LOGS</summary>
 <details close>
 
  ` 📂  ` LOGS: 
