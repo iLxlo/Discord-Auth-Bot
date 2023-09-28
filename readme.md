@@ -3,6 +3,7 @@
 [![View count](https://img.shields.io/github/views/iLxlo/discord-authbot/main.svg?style=for-the-badge)](https://github.com/iLxlo/discord-authbot)
 
 
+
 # ⭐ FEATURES
 
 <details close>
