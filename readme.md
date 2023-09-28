@@ -97,7 +97,6 @@ Discord auth bot that backup your channels, messages even discord members that y
   </p>
 </details>
 
-
 ---------------------------------------
 > **Important**
 >*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
