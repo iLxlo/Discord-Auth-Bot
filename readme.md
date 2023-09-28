@@ -1,5 +1,4 @@
-# Git Readme Dropdown
-Discord auth bot that backup your channels, messages even discord members that you got on bot
+> Discord auth bot that backup your channels, messages even discord members that you got on bot
 
 # ⭐ FEATURES
 
