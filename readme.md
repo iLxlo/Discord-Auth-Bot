@@ -62,12 +62,12 @@ Discord auth bot that backup your channels, messages even discord members that y
 
  * ` 🪀 ` Whitelist add/remove:
 
->>> SUCCES
- ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/e8970757-aa0d-4144-ac07-12d36883958b)
+> **Success**
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/e8970757-aa0d-4144-ac07-12d36883958b)
 
 
->>>WARNING
-![image](https://github.com/iLxlo/discord-authbot/assets/98545753/28f03821-c7ec-421e-aa72-e4f2e9ecc57d)
+> **Warning**
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/28f03821-c7ec-421e-aa72-e4f2e9ecc57d)
 
 
  
