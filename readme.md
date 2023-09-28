@@ -35,12 +35,12 @@ Discord auth bot that backup your channels, messages even discord members that y
 <summary>👤 Total auth</summary>
   <p>
 
-* ` 👤` oauth list command:
+* ` 👤 ` oauth list command:
 
 > ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/2c298007-58b2-4fa7-a779-263323f55e05)
 
 
- * ` 👨‍💻  ` oauths join command/logs:
+ * ` 👨‍💻 ` oauths join command/logs:
 
 > ![Discord_HFYcm54Wi2](https://github.com/iLxlo/discord-authbot/assets/98545753/255da289-fce0-494e-a053-63847fc16566)
 
