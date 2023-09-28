@@ -1,7 +1,5 @@
 > Discord auth bot that backup your channels, messages even discord members that you got on bot
 
-![OSS Lifecycle (branch)](https://img.shields.io/osslifecycle/iLxlo/discord-authbot/main)
-
 
 
 # ⭐ FEATURES
