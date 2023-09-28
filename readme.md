@@ -3,7 +3,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 
 <details>
     <summary>
-        <h3 style="display: inline-block"># ⭐ FEATURES</h3>
+        <h3 style="display: inline-block">⭐ FEATURES</h3>
 </summary>
     
 <details>
