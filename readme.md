@@ -73,3 +73,26 @@ Discord auth bot that backup your channels, messages even discord members that y
  
   </p>
 </details>
+
+
+# COMMANDS 
+
+<details close>
+<summary>🚀 COMMANDS</summary>
+  <p>
+
+* 🔱 ` /verify `  - Generate a discord embed & setup your discord server verification
+* 🎀 ` /oauths join ` Run this command, if you want to pull your members to new server.
+* 👤 ` /oauths list ` Shows your member count that on our db.
+* 🌍 `/features joiner` Set your automate join with guild id (You need to setup server add first)
+* 📧 `/features message` Set your message to send user when verified (This feature may flag your bot)
+* 🔎 `/features role` Set your verification role to give user when verified
+* 🤫 `/features info` Shows your setup that you did (e.g. [Automatic login server name and id, message when user verified, role when user verified])
+* ⏱ `/server add` Authorise your server to bot.
+* ❌ `/server remove` DeAuthorise your server to bot
+* ✅ `/whitelist add` Give acces to users
+* ❌ `/whitelist remove` Remove acces to users
+* 🔒 `/whitelist list` Shows acces that who can use the bot
+* 📂`/stop` Stops the current oauths join
+  </p>
+</details>
