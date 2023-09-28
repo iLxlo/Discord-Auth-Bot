@@ -16,7 +16,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 </details>
 
 <details close>
-<summary>🐞 ADVANCED LOGS</summary>
+<summary>🐞 Advanced logsS</summary>
   <p>
 
 * ` 📂 ` LOGS:
