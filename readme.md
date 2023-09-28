@@ -1,5 +1,8 @@
 # Git Readme Dropdown
 Discord auth bot that backup your channels, messages even discord members that you got on bot
+
+#FEATURES
+
 <details>
     <summary>
         <h3 style="display: inline-block">Embed Builder</h3>
