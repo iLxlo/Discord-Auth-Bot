@@ -4,7 +4,7 @@ Discord auth bot that backup your channels, messages even discord members that y
 # ⭐ FEATURES
 
 <details close>
-<summary>Embed Builder</summary>
+<summary>⚒️ Embed Builder</summary>
   <p>
 
 * ` 📞 ` Default Embed:
