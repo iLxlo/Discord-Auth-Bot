@@ -6,10 +6,12 @@ Discord auth bot that backup your channels, messages even discord members that y
     <summary>⭐ FEATURES </summary>
       </p>
 </details>
-<details>
-    <summary>
-        <h3 style="display: inline-block">Embed Builder</h3>
-</summary>
+
+<details close>
+    </p>
+        >Embed Builder
+      </p>
+</details>
 
 ` 📞 ` Default Embed:
 ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/d41e7084-1fc0-4b80-969a-f23a1662d555)
@@ -19,10 +21,12 @@ Discord auth bot that backup your channels, messages even discord members that y
 
 
 
-<details>
+<details close>
     <summary>
-        <h3 style="display: inline-block">🐞 ADVANCED LOGS</h3>
-    </summary>
+        </p>
+        <h3 style="display: inline-block">🐞 ADVANCED LOGS      
+        </p>
+<details close>
 
  ` 📂  ` LOGS: 
 ![Discord_Es9Fh7ZGtl](https://github.com/iLxlo/discord-authbot/assets/98545753/699bb95a-6ef2-4ea2-8f1b-ac77f8b9b9f9)
