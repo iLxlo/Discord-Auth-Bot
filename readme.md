@@ -1,17 +1,13 @@
 # Git Readme Dropdown
-Test
+Discord auth bot that backup your channels, messages even discord members that you got on bot
 <details>
     <summary>
-        <h3 style="display: inline-block">Before And After Preview</h3>
+        <h3 style="display: inline-block">Embed Builder</h3>
     </summary>
 
-### Before And After
-![Before And After Amiral Ariska Dark Theme(Cyan)](https://xp.io/storage/1mlGhP52.jpg)
-- A at-rule curly brackets color on Amiral Ariska Dark Theme(Cyan) now has been changed to cyan
+Default Embed:
+![image](https://github.com/iLxlo/discord-authbot/assets/98545753/d41e7084-1fc0-4b80-969a-f23a1662d555)
 
-![Before And After Amiral Ariska Dark Theme(Blue Cyan)](https://xp.io/storage/1minUbtQ.jpg)
-- A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue Cyan) now has been changed to cyan
+Embed builder:
+![image](https://github.com/iLxlo/discord-authbot/assets/98545753/1d1ca6d9-c60e-4fe1-bd27-c9cfa79d9a43)
 
-![Before And After Amiral Ariska Dark Theme(Blue)](https://xp.io/storage/1mkyyhgd.jpg)
-- A at-rule curly brackets color on Amiral Ariska Dark Theme(Blue) now has been changed to blue
-</details>
