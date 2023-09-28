@@ -19,13 +19,33 @@ Discord auth bot that backup your channels, messages even discord members that y
 <summary>🐞 ADVANCED LOGS</summary>
   <p>
 
-* ` 📂  ` LOGS:
+* ` 📂 ` LOGS:
 
 > ![Discord_Es9Fh7ZGtl](https://github.com/iLxlo/discord-authbot/assets/98545753/699bb95a-6ef2-4ea2-8f1b-ac77f8b9b9f9)
 
 
- * ` 👨‍💻  ` ABOUT BOT:
+ * ` 👨‍💻 ` ABOUT BOT:
  
 > ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/26867315-1420-4910-8861-da8a329c9b58)
+  </p>
+</details>
+
+
+<details close>
+<summary>👤 Total auth</summary>
+  <p>
+
+* ` 👤` oauth list command:
+
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/2c298007-58b2-4fa7-a779-263323f55e05)
+
+
+ * ` 👨‍💻  ` oauths join command/logs:
+
+> ![Discord_HFYcm54Wi2](https://github.com/iLxlo/discord-authbot/assets/98545753/255da289-fce0-494e-a053-63847fc16566)
+
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/4cfd2317-a071-4b2e-9a89-2da1c4bd4489)
+
+ 
   </p>
 </details>
