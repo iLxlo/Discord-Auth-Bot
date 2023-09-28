@@ -1,15 +1,11 @@
 # Git Readme Dropdown
 Discord auth bot that backup your channels, messages even discord members that you got on bot
 
-<details close>
-    </p>
-    <summary>⭐ FEATURES </summary>
-      </p>
-</details>
+# ⭐ FEATURES
 
 <details close>
     </p>
-        >Embed Builder
+        Embed Builder
       </p>
 </details>
 
@@ -24,12 +20,13 @@ Discord auth bot that backup your channels, messages even discord members that y
 <details close>
     <summary>
         </p>
-        <h3 style="display: inline-block">🐞 ADVANCED LOGS      
+        🐞 ADVANCED LOGS      
         </p>
 <details close>
 
  ` 📂  ` LOGS: 
 ![Discord_Es9Fh7ZGtl](https://github.com/iLxlo/discord-authbot/assets/98545753/699bb95a-6ef2-4ea2-8f1b-ac77f8b9b9f9)
+
 
  ` 👨‍💻  ` ABOUT BOT:
 ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/26867315-1420-4910-8861-da8a329c9b58)
