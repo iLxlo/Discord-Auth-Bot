@@ -124,6 +124,8 @@ SOURCE CODE:
 
 * 🤫 EMBEDS:
 > ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/78728811-0528-4169-8d13-baf2dfeca45d)
+  </p>
+</details>
 
 <details close>
 <summary>⏱ AUTOREFRESH </summary>
