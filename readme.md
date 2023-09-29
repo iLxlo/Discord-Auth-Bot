@@ -23,7 +23,7 @@ SOURCE CODE:
 </details>
 
 <details close>
-<summary>🐞 Advanced logsS</summary>
+<summary>🐞 Advanced logs</summary>
   <p>
 
 * ` 📂 ` LOGS:
