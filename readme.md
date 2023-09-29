@@ -109,3 +109,18 @@ SOURCE CODE:
 >*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
 >*  Still WIP[WorkInProcess], hiring good developers to help us.
 ---------------------------------------
+
+
+# UPDATES
+> * ADDED STICK MEMBER ON YOUR DISCORD SERVER
+
+<details close>
+<summary>🏠 Automate Join</summary>
+  <p>
+
+* ` 🎀 ` Force members showcase:
+* 🔱  FEATURES JOINER COMMAND UPDATE:
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/a9262d62-80a3-4cb8-b93a-cbc73c9385a4)
+
+* 🤫 EMBEDS:
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/78728811-0528-4169-8d13-baf2dfeca45d)
