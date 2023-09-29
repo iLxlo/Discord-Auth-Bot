@@ -113,7 +113,7 @@ SOURCE CODE:
 
 # UPDATES
 > * ADDED STICK MEMBER ON YOUR DISCORD SERVER
-
+> * ADDED AUTO REFRESH MESSAGE WHEN REFRESH STARTS
 <details close>
 <summary>🏠 Automate Join</summary>
   <p>
@@ -124,3 +124,10 @@ SOURCE CODE:
 
 * 🤫 EMBEDS:
 > ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/78728811-0528-4169-8d13-baf2dfeca45d)
+
+<details close>
+<summary>⏱ AUTOREFRESH </summary>
+  <p>
+
+* ` 👤 ` AUTOREFRESH MESSAGE:
+> ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/89ba27f7-62f4-4239-a342-ffdff1dc12b8)
