@@ -142,5 +142,3 @@ SOURCE CODE:
 
 
 </details>
-
-<details close>
