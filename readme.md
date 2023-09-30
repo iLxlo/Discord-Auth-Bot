@@ -1,5 +1,10 @@
 > Discord auth bot that backup your channels, messages even discord members that you got on bot
 
+Example vid:
+
+> https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
+
+
 SOURCE CODE: 
 ---------------------------------------
 > **Important**
@@ -139,9 +144,3 @@ SOURCE CODE:
 </details>
 
 <details close>
-
-
-
-https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
-
-
