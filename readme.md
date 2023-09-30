@@ -136,8 +136,12 @@ SOURCE CODE:
 > ![image](https://github.com/iLxlo/discord-authbot/assets/98545753/89ba27f7-62f4-4239-a342-ffdff1dc12b8)
 
 
-> **Success**
->(e.g):
->https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
+</details>
+
+<details close>
+
+
+
+https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
 
 
