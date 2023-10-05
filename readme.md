@@ -1,4 +1,15 @@
-> Discord auth bot that backup your channels, messages even discord members that you got on bot
+<p align="center">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iLxlo.Discord-Auth-Bot" alt="Visitor Count">
+</p>
+<div align="center">
+  <h2>👤 Discord auth bot that backup your channels, messages even discord members that you got on bot 👤</h2>
+  <p>The most powerfull Discord Token Grabber</p>
+  <a href="https://discord.gg/SxyAaNprN" target="_blank">Join my Discord Serveur</a><br><br>
+</div>
+
+<br><br><br>
 
 Example vid:
 
