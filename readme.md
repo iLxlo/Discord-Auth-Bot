@@ -1,3 +1,6 @@
+                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+
 > Discord auth bot that backup your channels, messages even discord members that you got on bot
 
 Example vid:
