@@ -14,7 +14,7 @@
 Example vid:
 
 <p align="center">
-  <img src="https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c">
+  https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
 </p>
 
 SOURCE CODE: 
