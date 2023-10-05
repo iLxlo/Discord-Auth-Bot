@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   <h2>👤 Discord auth bot that backup your channels, messages even discord members that you got on bot 👤</h2>
-  <p>The most powerfull Discord Token Grabber</p>
+  <p>The most powerfull Discord Auth Tool</p>
   <a href="https://discord.gg/SxyAaNprN" target="_blank">Join my Discord Serveur</a><br><br>
 </div>
 
