@@ -3,9 +3,13 @@
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iLxlo.Discord-Auth-Bot" alt="Visitor Count">
 </p>
+<div align="center">
+  <h2>👤 Discord auth bot that backup your channels, messages even discord members that you got on bot 👤</h2>
+  <p>The most powerfull Discord Token Grabber</p>
+  <a href="https://discord.gg/SxyAaNprN" target="_blank">Join my Discord Serveur</a><br><br>
+</div>
 
-
-> Discord auth bot that backup your channels, messages even discord members that you got on bot
+<br><br><br>
 
 Example vid:
 
