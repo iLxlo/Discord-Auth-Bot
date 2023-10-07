@@ -20,7 +20,7 @@ SOURCE CODE:
 ---------------------------------------
 > **Important**
 > # SOURCE CODE: 
->*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
+>*  Join our server to get demo of the bot: https://discord.gg/fenKQWNSJ
 >*  Still WIP[WorkInProcess], hiring good developers to help us.
 >*  WANT TO SUGGES A FEATURE ? CLICK TO [SUGGEST](https://github.com/iLxlo/discord-authbot/issues)
 ---------------------------------------
@@ -123,7 +123,7 @@ SOURCE CODE:
 
 ---------------------------------------
 > **Important**
->*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
+>*  Join our server to get demo of the bot: https://discord.gg/fenKQWNSJ
 >*  Still WIP[WorkInProcess], hiring good developers to help us.
 ---------------------------------------
 
