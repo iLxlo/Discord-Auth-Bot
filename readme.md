@@ -13,14 +13,14 @@
 
 Example vid:
 
-> https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
 
+https://github.com/iLxlo/discord-authbot/assets/98545753/c57e0004-8f4c-47a9-9da7-33a0d9e5919c
 
 SOURCE CODE: 
 ---------------------------------------
 > **Important**
 > # SOURCE CODE: 
->*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
+>*  Join our server to get demo of the bot: https://discord.gg/fenKQWNSJ
 >*  Still WIP[WorkInProcess], hiring good developers to help us.
 >*  WANT TO SUGGES A FEATURE ? CLICK TO [SUGGEST](https://github.com/iLxlo/discord-authbot/issues)
 ---------------------------------------
@@ -123,7 +123,7 @@ SOURCE CODE:
 
 ---------------------------------------
 > **Important**
->*  Join our server to get demo of the bot: https://discord.gg/5yC9kXCEp5
+>*  Join our server to get demo of the bot: https://discord.gg/fenKQWNSJ
 >*  Still WIP[WorkInProcess], hiring good developers to help us.
 ---------------------------------------
 
